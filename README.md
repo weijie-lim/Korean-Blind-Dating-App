@@ -1,14 +1,14 @@
 # Korean-Blind-Dating-App
 Blind Dating APP
 
-#Components
+# Components
 (1) Login Page
 
 (2) Profile Pages (JQ)
 
 (3) Messaging Page
 
-#Design
+# Design
 (1) Logo
 
 (2) Name
