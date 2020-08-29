@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:heart2heart_app/colors.dart';
-import 'package:heart2heart_app/narrowappbar.dart';
-import 'package:heart2heart_app/textstyle.dart';
+import 'colors.dart';
+import 'narrowappbar.dart';
+import 'textstyle.dart';
 
 class SuperBeatsPage extends StatelessWidget {
   @override

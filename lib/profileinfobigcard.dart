@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:heart2heart_app/textstyle.dart';
+import 'textstyle.dart';
 
 class ProfileInfoBigCard extends StatelessWidget {
   final String firstText, secondText;

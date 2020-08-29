@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:heart2heart_app/colors.dart';
+import 'colors.dart';
 
 final TextStyle headingTextStyle = TextStyle(
   fontSize: 32.0,

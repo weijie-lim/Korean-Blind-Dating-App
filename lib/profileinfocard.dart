@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:heart2heart_app/twolineitem.dart';
+import 'twolineitem.dart';
 
 import 'colors.dart';
 

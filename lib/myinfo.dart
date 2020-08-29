@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:heart2heart_app/radialprogress.dart';
-import 'package:heart2heart_app/roundedimage.dart';
-import 'package:heart2heart_app/textstyle.dart';
+import 'radialprogress.dart';
+import 'roundedimage.dart';
+import 'textstyle.dart';
 
 class MyInfo extends StatelessWidget {
+  static const String id = 'myinfo';
   @override
   Widget build(BuildContext context) {
     return Expanded(

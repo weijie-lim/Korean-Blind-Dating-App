@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:heart2heart_app/myinfo.dart';
-import 'package:heart2heart_app/opaqueimage.dart';
-import 'package:heart2heart_app/profileinfobigcard.dart';
-import 'package:heart2heart_app/profileinfocard.dart';
-import 'package:heart2heart_app/superbeats.dart';
-import 'package:heart2heart_app/textstyle.dart';
+import 'myinfo.dart';
+import 'opaqueimage.dart';
+import 'profileinfobigcard.dart';
+import 'profileinfocard.dart';
+import 'superbeats.dart';
+import 'textstyle.dart';
 
 class ProfilePage extends StatelessWidget {
+  static const String id = 'ProfilePage';
   @override
   Widget build(BuildContext context) {
     final screenHeight = MediaQuery.of(context).size.height;
